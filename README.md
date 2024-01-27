@@ -1,6 +1,6 @@
 # Hotel-Room-Booking-Management-system
 # Overview
-The Hotel Room Booking Management System is a comprehensive solution designed to streamline the process of managing room bookings and related services in a hotel. This system offers functionalities for booking rooms, managing customer details, and handling food-related services.
+The Hotel Room Booking Management System is a comprehensive solution designed to streamline the process of managing room bookings and related services in a hotel. This system offers functionalities for booking rooms, managing customer details, and handling food-related services.This project is done using  C programming.
 
 # Features
 Room Booking: Users can easily browse available rooms, select their preferences, and book rooms for specified dates.
